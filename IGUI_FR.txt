@@ -1,0 +1,7 @@
+IGUI_FR = {
+    IGUI_take_off_headwear = "Enlever le couvre-chef",
+    IGUI_take_off_clothes = "Enlever les vêtements",
+    IGUI_take_off_underWear = "Enlever les sous-vêtements",
+    IGUI_take_off_backpack = "Enlever le sac à dos",
+    IGUI_consume_water = "Boire",
+}
