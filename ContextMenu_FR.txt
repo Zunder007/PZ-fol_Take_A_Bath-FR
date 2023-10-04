@@ -1,0 +1,3 @@
+ContextMenu_FR = {
+    ContextMenu_fol_TakeABath = "Prendre un bain",
+}
